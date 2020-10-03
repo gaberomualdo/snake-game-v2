@@ -14,4 +14,4 @@ data:text/html,%3Cdiv%20id%3Dg%3E%3C%2Fdiv%3E%3Cstyle%3E%2A%7Bmargin%3A0%3Bpaddi
 
 Using the data URL version, I've created a QR Code version. **This version does not work on mobile.** Simply scan the QR code on your laptop or desktop device, and play the game in your browser!
 
-[Snake QR Code](snakeinaqrcode.png)
+![Snake QR Code](snakeinaqrcode.png)
